@@ -1,0 +1,2 @@
+# synergy
+A documentation project
